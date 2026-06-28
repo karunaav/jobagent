@@ -38,15 +38,27 @@ Open `http://localhost:8000`
 
 <img width="1920" height="1032" alt="Screenshot 2026-06-27 233201" src="https://github.com/user-attachments/assets/29ec4cad-f870-4a43-a661-67fda21dd1f1" />
 
+---
+
 <img width="1920" height="1032" alt="Screenshot 2026-06-27 233214" src="https://github.com/user-attachments/assets/72d072b3-8d44-4752-b679-c47655bba4c8" />
+
+---
 
 <img width="1920" height="1032" alt="Screenshot 2026-06-27 233225" src="https://github.com/user-attachments/assets/3326cc72-3cec-424b-a604-655390e29dcb" />
 
+---
+
 <img width="1920" height="1032" alt="Screenshot 2026-06-27 233229" src="https://github.com/user-attachments/assets/b9168d88-ef68-44ef-94f6-a9dd3b5d644e" />
+
+---
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/70908204-b9cf-409c-877c-c33172109217" />
 
+---
+
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f56356a5-c9c6-4145-ae07-2714d625ae4b" />
+
+---
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/7901310a-f735-4296-bf39-4e32428817dc" />
 
