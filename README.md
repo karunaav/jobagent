@@ -5,7 +5,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?style=for-the-badge)
 ![ReAct](https://img.shields.io/badge/agent-ReAct%20loop-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
+
 An agentic AI app that analyzes your profile against real job market data and generates a career intelligence report.
 
 Built with a ReAct (Reason + Act) loop — the agent autonomously decides which tools to call, in what order, based on what it finds. It's not a pipeline.
